@@ -1,7 +1,3 @@
-Here is a polished **`README.md`** version — clean, professional, and ready to drop into your GitHub repository:
-
----
-
 # **Zcrypt Academy**
 
 Learn Zero-Knowledge Proofs, Rust programming, and Privacy concepts through modern, read-only interactive content.
