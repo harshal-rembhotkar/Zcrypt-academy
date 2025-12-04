@@ -14,7 +14,7 @@ import StoryDetail from './pages/StoryDetail';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen flex flex-col bg-white text-gray-800 font-sans selection:bg-purple-100 selection:text-purple-900">
+      <div className="min-h-screen flex flex-col bg-white dark:bg-dark-bg text-gray-800 dark:text-gray-100 font-sans selection:bg-purple-100 selection:text-purple-900 dark:selection:bg-purple-900 dark:selection:text-purple-100 transition-colors duration-300">
         <Navbar />
         <main className="flex-grow">
           <Routes>
